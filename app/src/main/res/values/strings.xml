@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">FingerSpeedGame</string>
+
+    <string name="timer_text">Time</string>
+    <string name="a_thousand">1000</string>
+    <string name="button_text">Tap Tap</string>
+    <string name="alert_title">The game is finished. Would you like to restart the game?</string>
+    <string name="alert_message">Congratulations!</string>
+    <string name="positive_button">Yes</string>
+    <string name="negative_button">No. Close the game.</string>
+    <string name="reset_game">Would you like to reset the game?</string>
 </resources>
